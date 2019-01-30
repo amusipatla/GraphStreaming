@@ -1,3 +1,3 @@
+Website for 15-400 project: Root Finding using Graph Streaming Techniques.
 
-This is a compressed-commit version of
-[github.com/t413/SinglePaged](https://github.com/t413/SinglePaged)
+https://amusipatla.github.io/RootFinding/
