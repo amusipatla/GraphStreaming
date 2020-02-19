@@ -14,7 +14,7 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Root Finding in a Graph Streaming Situation"
+title:       "Testing for Properties of Graphs in the Streaming Model"
 keywords:    "graph streaming, root, tree, streaming"
 description: "Project page for Amulya Musipatla's 15-400 project with David Woodruff"
 source_link: "https://github.com/t413/SinglePaged"
